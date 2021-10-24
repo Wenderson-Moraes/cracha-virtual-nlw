@@ -24,6 +24,7 @@ main {
     height: 100vh;
 }
 
+
 .container {
   max-width: 250px;
   margin-left: auto;
@@ -88,3 +89,21 @@ ul {
 
   justify-content: center;
 }
+
+@media (max-width: 325px) {
+  html {
+      font-size: 90%;
+  }
+  header,
+  main .detail {
+      display: none;
+  }
+  main {
+      background: url("./images/background-Desktop.svg") no-repeat center 0rem;
+      height: 100vh;
+      border-radius: 0;
+  }
+  .avatar {
+      margin: 13.5rem auto 0;
+  }
+ }
