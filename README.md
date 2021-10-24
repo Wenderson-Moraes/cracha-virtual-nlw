@@ -35,4 +35,4 @@ Para colocar suas informações no projeto, coloque seu usuario do github e suas
 
 
 
-By Wenderson Ferreira 😄
+By Wenderson Ferreira
