@@ -23,7 +23,7 @@ Clonando o Repositório:
 
 Abra seu Gitbash ou terminal de sua preferência
 - Altere o diretorio para um de sua preferencia
-- Copie o codigo ao lado $ git clone https://github.com/Fledson/Cracha_Nlw.git
+- Copie o codigo ao lado $ git clone
 - Abra pelo Vscode
 - Execute o index.html com o live server
 
